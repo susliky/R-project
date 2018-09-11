@@ -1,2 +1,1 @@
-# firstR
-R code attempts
+# R profect for Cognitive linguistics
