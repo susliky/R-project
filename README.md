@@ -1,1 +1,1 @@
-# R profect for Cognitive linguistics
+# R project for Cognitive linguistics
